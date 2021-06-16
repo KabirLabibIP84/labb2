@@ -11,8 +11,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/inovarka/se-lab2/httptools"
-	"github.com/inovarka/se-lab2/signal"
+	"github.com/KabirLabibIP84/labb2/tree/main/lab2.2/httptools"
+	"github.com/KabirLabibIP84/labb2/tree/main/lab2.2/signal"
 )
 
 var (
