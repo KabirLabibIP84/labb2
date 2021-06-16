@@ -18,5 +18,5 @@ FROM alpine:3.11
 WORKDIR /opt/se-lab2
 COPY entry.sh ./
 COPY --from=build /go/src/labb2/tree/main/lab2.2/out/bin/* ./
-ENTRYPOINT ["/opt/se-lab2/entry.sh"]
+ENTRYPOINT ["/opt/lab2.2/entry.sh"]
 CMD ["server"]
