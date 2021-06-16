@@ -1,6 +1,6 @@
 go_testedbinary {
   name: "server",
-  pkg: "github.com/inovarka/se-lab2/cmd/server",
+  pkg: "github.com/KabirLabibIP84/labb2/tree/main/lab2.2/cmd/server",
   srcs: [
     "httptools/**/*.go",
     "signal/**/*.go",
@@ -23,7 +23,7 @@ go_testedbinary {
 
 go_testedbinary {
   name: "db",
-  pkg: "github.com/inovarka/se-lab2/cmd/db",
+  pkg: "github.com/KabirLabibIP84/labb2/tree/main/lab2.2/cmd/db",
   srcs: [
     "httptools/**/*.go",
     "datastore/**/*.go",
