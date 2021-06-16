@@ -1,5 +1,5 @@
 go_testedbinary {
   name: "integration",
-  pkg: "github.com/inovarka/se-lab2/integration",
+  pkg: "github.com/KabirLabibIP84/labb2/tree/main/lab2.2/integration",
   testPkg: "./..."
 }
