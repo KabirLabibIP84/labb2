@@ -14,7 +14,7 @@ COPY . .
 # TODO: Замініть на запуск bood, який призводить до виконання інтеграційних тестів.
 # ENTRYPOINT ["echo", "ok"]
 
-WORKDIR /go/src/se-lab2/integration
+WORKDIR /go/src/labb2/tree/main/lab2.2/integration
 
 ENTRYPOINT bood 2>&1 | tee integration.log
 
