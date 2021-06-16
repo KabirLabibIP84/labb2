@@ -1,4 +1,4 @@
-module github.com/inovarka/se-lab2
+module github.com/KabirLabibIP84/labb2/tree/main/lab2.2
 
 go 1.16
 
